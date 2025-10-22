@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\appcarga\app\resources\views/pedidos/create.blade.php ENDPATH**/ ?>
